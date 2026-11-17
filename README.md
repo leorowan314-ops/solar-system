@@ -4,6 +4,11 @@
 
 **在线演示（长期地址）**：<https://solar-atlas-q25hm8.deed.page/solar-system/>
 
+**GitHub 仓库**：<https://github.com/leorowan314-ops/solar-system>
+**GitHub Pages**：<https://leorowan314-ops.github.io/solar-system/solar-system/>
+
+> GitHub Pages 的项目站点会多一层仓库名路径，这是 GitHub 项目页的默认行为；日常分享建议直接用上面的 deed.page 地址。
+
 ![太阳系总览](screenshots/overview.jpg)
 
 ## 项目亮点
