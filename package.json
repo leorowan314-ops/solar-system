@@ -1,0 +1,24 @@
+{
+  "name": "solar-system-particle-observatory",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "description": "An interactive, hand-controlled Solar System observatory built with Three.js and MediaPipe Hands.",
+  "license": "MIT",
+  "scripts": {
+    "start": "node tools/serve.mjs",
+    "serve": "node tools/serve.mjs"
+  },
+  "keywords": [
+    "threejs",
+    "mediapipe",
+    "solar-system",
+    "webgl",
+    "astronomy",
+    "education",
+    "hand-tracking"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}

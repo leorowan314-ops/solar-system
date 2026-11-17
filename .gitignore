@@ -1,0 +1,17 @@
+# dependencies / build artifacts
+node_modules/
+dist/
+_deploy/
+_tools/
+_recover/
+_recover2/
+_repo-stage/
+
+# local logs / OS files
+*.log
+.DS_Store
+Thumbs.db
+
+# local secrets
+.env
+.env.*
