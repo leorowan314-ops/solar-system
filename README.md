@@ -134,7 +134,8 @@ flowchart LR
 │   └── assets/textures/        # 行星/银河纹理
 ├── src/
 │   ├── handTracker.js          # MediaPipe 封装（共享）
-│   └── tension.js              # 张合度纯函数（共享）
+│   ├── tension.js              # 张合度纯函数（共享）
+│   └── config.js               # 摄像头/跟踪/张力阈值（共享）
 ├── vendor/
 │   ├── three/                  # Three.js r187 + postprocessing addons
 │   └── mediapipe/              # tasks-vision + wasm + hand_landmarker.task
